@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: Preview: https://main--rh--AdobeDevXSC.hlx.page/
-- Live: https://main--rh--AdobeDevXSC.hlx.live/
+- Preview: Preview: https://main--rh-erica--ericayock.aem.page/
+- Live: https://main--rh-erica--ericayock.aem.live/
 
 ## Installation
 
